@@ -1,0 +1,11 @@
+{
+  "daily": [
+    { "day": "Mon", "sales": 200 },
+    { "day": "Tue", "sales": 250 },
+    { "day": "Wed", "sales": 180 }
+  ],
+  "topProducts": [
+    { "name": "Widget A", "units": 40 },
+    { "name": "Widget B", "units": 32 }
+  ]
+}

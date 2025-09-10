@@ -1,0 +1,20 @@
+{
+  "name": "epos-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack serve --port 8083",
+    "build": "webpack",
+    "test": "echo 'No tests'"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1",
+    "html-webpack-plugin": "^5.5.3",
+    "vue-loader": "^17.3.0",
+    "@vue/compiler-sfc": "^3.3.4"
+  }
+}
